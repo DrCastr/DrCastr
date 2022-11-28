@@ -1,5 +1,4 @@
-# 👋 Oi, Eu sou DrCastr
-# 👀 Me interreso em progamar
+# 👋 Oi, Eu sou DrCastr, Eu gosto bastante de progamar
 # 🌱 Eu Progamo e estou aprendo "Lua"
 
 <!---
